@@ -35,6 +35,8 @@ public class PutObjectActivity extends Activity {
         private int downLeftMargin;
         private int downTopMargin;
 
+        private int test;
+
         @Override
         public boolean onTouch(View v, MotionEvent event) {
 
