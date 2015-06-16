@@ -36,6 +36,7 @@ public class PutObjectActivity extends Activity {
         private int downTopMargin;
 
         public int test;  //yocchiテスト
+        public String yocchi;
 
         @Override
         public boolean onTouch(View v, MotionEvent event) {
