@@ -12,7 +12,7 @@ public class JavaClassForS {
     }
 
     public static void main2() {
-        System.out.println("やっほぉー");
+        System.out.println("よわっち()");
     }
 
 }
