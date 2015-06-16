@@ -22,4 +22,6 @@ public class JavaClassForS {
     private String yocchan2;
 
     private String proxySettingFinish;
+
+    private String ssss;
 }
