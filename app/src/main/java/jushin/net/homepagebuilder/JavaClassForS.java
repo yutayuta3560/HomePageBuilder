@@ -15,4 +15,7 @@ public class JavaClassForS {
         System.out.println("よわっち(っ・ワ・)");
     }
 
+    private String name;
+    private int age;
+
 }
