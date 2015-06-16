@@ -5,6 +5,6 @@ package jushin.net.homepagebuilder;
  */
 public class JavaClassForS {
     public static void main(STring[] args){
-        System.out.println("I'm so sleepy!");
+        System.out.println("No reply");
     }
 }
