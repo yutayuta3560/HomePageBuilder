@@ -19,5 +19,5 @@ public class JavaClassForS {
     private int age;
 
     private String yocchan;
-
+    private String yocchan2;
 }
