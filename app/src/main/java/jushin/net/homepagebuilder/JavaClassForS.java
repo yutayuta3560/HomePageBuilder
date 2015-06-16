@@ -20,4 +20,6 @@ public class JavaClassForS {
 
     private String yocchan;
     private String yocchan2;
+
+    private String proxySettingFinish;
 }
